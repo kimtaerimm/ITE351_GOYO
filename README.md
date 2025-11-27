@@ -1,6 +1,5 @@
 # ITE351-GOYO
 
-# ITE-GOYO
 ## An AI-Based Active Noise Control System for Smart Home Environments
 
 ## Members
